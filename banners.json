@@ -125,7 +125,14 @@
             "text": "Наш Discord-Сервер",
             "src": "https://cdn.discordapp.com/attachments/1065669947168141362/1068917196799098954/1.png",
             "href": "https://discord.gg/kwd4FkQcWF"
+        },
+        {
+            "start": "2022-06-30",
+            "text": "Наш Сайт",
+            "src": "https://cdn.discordapp.com/attachments/1065669947168141362/1068919725255561246/2.png",
+            "href": "http://sunchous-site.tilda.ws/"
         }
+        
     ],
 
     "postGameBanners": {
