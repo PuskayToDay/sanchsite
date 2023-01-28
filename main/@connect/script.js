@@ -15492,24 +15492,24 @@ ${r.message}`,
         }
     }
     const eq = {
-            BACK: "Back",
-            CANCEL: "Cancel",
-            CLOSE: "Close",
-            CONFIRM: "Confirm",
-            CREATE: "Create",
-            DELETE: "Delete",
-            DONE: "Done",
-            EDIT: "Edit",
+            BACK: "Назад",
+            CANCEL: "Отменить",
+            CLOSE: "Закрыть",
+            CONFIRM: "Принять",
+            CREATE: "Создать",
+            DELETE: "Уничтожить",
+            DONE: "Данон",
+            EDIT: "Эдит",
             OK: "OK",
-            NO: "No",
-            PLAY: "Play",
+            NO: "НЕТ",
+            PLAY: "Шалтай-болтай",
             PUBLISH: "Publish",
-            REMOVE: "Remove",
-            RESET: "Reset",
-            SUBMIT: "Submit",
-            TRY_AGAIN: "Try Again",
-            UNDO: "Undo",
-            YES: "Yes"
+            REMOVE: "Убрать",
+            RESET: "Сбросить",
+            SUBMIT: "Зачем я параметры открыл?",
+            TRY_AGAIN: "Попробовать Снова",
+            UNDO: "Отменить",
+            YES: "Да"
         },
         tq = {
             UGC: {
@@ -26830,15 +26830,15 @@ ${t}`
             FILTER_NAME: "This game has profanity filters enabled. Please pick a different name."
         },
         bre = {
-            NAME: "NAME",
-            NAME_PLACEHOLDER: "ENTER YOUR NAME",
+            NAME: "НИКНЕЙМ",
+            NAME_PLACEHOLDER: "ВВЕДИТЕ ВАШ НИКНЕЙМ",
             PASSWORD_PLACEHOLDER: "ENTER 5-DIGIT PASSWORD",
             PASSWORD_REQUIRED_TITLE: "Password required",
             PASSWORD_REQUIRED_BODY: "Please enter the password or join as an audience member",
             PASSWORD_JOIN_AS_PLAYER: "Join as Player",
             PASSWORD_JOIN_AS_AUDIENCE: "Join Audience",
-            ROOM_CODE: "ROOM CODE",
-            ROOM_CODE_PLACEHOLDER: "ENTER 4-LETTER CODE"
+            ROOM_CODE: "КОД КОМНАТЫ",
+            ROOM_CODE_PLACEHOLDER: "ВВЕДИТЕ 4 БУКВЫ КОДА"
         },
         Tre = "Link to Jackbox Games Homepage",
         Sre = {
@@ -26889,7 +26889,7 @@ from your past games list.`,
             GAME_FULL: "GAME IS FULL",
             GAME_STARTED: "GAME HAS STARTED",
             JOIN_AUDIENCE: "JOIN AUDIENCE",
-            RECONNECT: "RECONNECT",
+            RECONNECT: "ПЕРЕЗАЙТИ",
             TWITCH_LOGIN: "LOGIN WITH TWITCH"
         },
         Rre = {
